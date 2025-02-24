@@ -1,0 +1,38 @@
+{
+    "Cluster_1": [
+        "Chanchal_Chowdhury",
+        "Ananta_Jalil",
+        "Zahid_Hasan",
+        "Mosharraf_Karim",
+        "Mamunur_Rashid",
+        "Saleh_Ahmed",
+        "Riaz_(actor)",
+        "Ferdous_Ahmed",
+        "Aly_Zaker",
+        "Lutfur_Rahman_George"
+    ],
+    "Cluster_2": [
+        "Lionel_Messi",
+        "Pel\u00e9",
+        "Neymar",
+        "Cristiano_Ronaldo",
+        "Diego_Maradona",
+        "Vin\u00edcius_J\u00fanior",
+        "Kylian_Mbapp\u00e9",
+        "Ronaldo_(Brazilian_footballer)",
+        "Zinedine_Zidane",
+        "Mohamed_Salah"
+    ],
+    "Cluster_3": [
+        "Albert_Einstein",
+        "Isaac_Newton",
+        "Charles_Darwin",
+        "Nikola_Tesla",
+        "Ada_Lovelace",
+        "Marie_Curie",
+        "Richard_Feynman",
+        "Leonardo_da_Vinci",
+        "Niels_Bohr",
+        "Michael_Faraday"
+    ]
+}
