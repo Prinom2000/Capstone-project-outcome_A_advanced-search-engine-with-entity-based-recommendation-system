@@ -1,13 +1,15 @@
 # **Capstone-project-outcome-with-deliverable-project**
 
 ## **Project Overview**
-This project is a **deliverable capstone project** that focuses on an **Advanced Search Engine & Recommendation System**. The system enhances **entity search** by retrieving detailed information from **Wikipedia** and recommending related entities using **clustering-based techniques**.
+This project is a **deliverable prduct as my capstone project** that focuses on an **Advanced Search Engine & Recommendation System**. The system enhances **entity search** by retrieving detailed information from **DBpedia** and recommending related entities using **clustering-based techniques**.
 
 This project involved **extensive research**, including:
 
-- **Manual vs. DBpedia-based Knowledge Graphs**
+- **Manual Knowledge Graphs vs. DBpedia-based Knowledge Graphs**
 - **Embedding techniques (BERT, Word2Vec, etc.)**
 - **Clustering methodologies for entity recommendations**
+
+## **Methodology**
 ![image](https://github.com/user-attachments/assets/b9f24bb0-a5ee-4743-9ab7-662ae2c358cf)
 
 ---
