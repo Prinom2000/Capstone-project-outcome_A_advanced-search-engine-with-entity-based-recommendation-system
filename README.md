@@ -8,6 +8,7 @@ This project involved **extensive research**, including:
 - **Manual vs. DBpedia-based Knowledge Graphs**
 - **Embedding techniques (BERT, Word2Vec, etc.)**
 - **Clustering methodologies for entity recommendations**
+![image](https://github.com/user-attachments/assets/b9f24bb0-a5ee-4743-9ab7-662ae2c358cf)
 
 ---
 
