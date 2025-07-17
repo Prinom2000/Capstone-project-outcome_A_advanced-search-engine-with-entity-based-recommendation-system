@@ -1,4 +1,4 @@
-# **Capstone-project-outcome-with-deliverable-project**
+# **RDF DATA CLUSTERING FRAMEWORK**
 
 ## **Project Overview**
 This project is a **deliverable prduct of my capstone project** that focuses on an **Advanced Search Engine & Recommendation System**. The system enhances **entity search** by retrieving detailed information from **DBpedia** and recommending related entities using **clustering-based techniques**.
